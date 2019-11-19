@@ -495,7 +495,7 @@ mbstring.internal_encoding:
 mbstring.language: neutral
 mbstring.strict_detection: 0
 mbstring.substitute_character: 
-memory_limit: 256M
+memory_limit: 2256M
 mysqli.allow_local_infile: 0
 mysqli.allow_persistent: 1
 mysqli.default_host: 
